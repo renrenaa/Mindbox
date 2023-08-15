@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox", "Mindbox\Mindbox.csproj", "{E2A020D3-EDB9-4D0A-86B4-AB08F43C5CB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Tests", "Mindbox.Tests\Mindbox.Tests.csproj", "{55AA969E-1C4B-40A9-9965-CEB0E01843F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{F71DE785-73AF-4BCA-9607-BF5DA2C44801}"
+	ProjectSection(SolutionItems) = preProject
+		SQL задача.txt = SQL задача.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A020D3-EDB9-4D0A-86B4-AB08F43C5CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A020D3-EDB9-4D0A-86B4-AB08F43C5CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A020D3-EDB9-4D0A-86B4-AB08F43C5CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A020D3-EDB9-4D0A-86B4-AB08F43C5CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AA969E-1C4B-40A9-9965-CEB0E01843F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AA969E-1C4B-40A9-9965-CEB0E01843F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AA969E-1C4B-40A9-9965-CEB0E01843F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AA969E-1C4B-40A9-9965-CEB0E01843F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8B5DFE5-4C5B-4382-956F-D44DB84E478C}
+	EndGlobalSection
+EndGlobal
